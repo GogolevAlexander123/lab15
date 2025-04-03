@@ -13,21 +13,21 @@
       <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Thu, 03 Apr 2025 17:48:09 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;qwe&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Thu, 03 Apr 2025 17:47:56 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;wer&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 03 Apr 2025 17:47:38 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;ert&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
